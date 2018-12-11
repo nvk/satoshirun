@@ -1,4 +1,4 @@
 # satoshirun
-A annual proof of reservers on Bitcoin central services
+An annual proof of reservers on Bitcoin central services
 
 ![](satoshirun.png)
