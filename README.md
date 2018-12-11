@@ -6,12 +6,10 @@ Every January 3rd, users withdraw all Bitcoin they may have sitting on exchanges
 All you have to do:
 
 1. Withdraw to your own hardware wallet.
-2. Wait 24hrs...
-
-[Visit Proof of Keys for awesome info](http://proofofkeys.com)
+2. Wait 24hrs...?
 
 
 
-[*contribute*](https://github.com/nvk/satoshirun) | [follow @SatoshiRunJan3](https://twitter.com/SatoshiRunJan3)
+[*contribute*](https://github.com/nvk/satoshirun) | [follow @SatoshiRunJan3](https://twitter.com/SatoshiRunJan3) | [Visit Proof of Keys for awesome info](http://proofofkeys.com)
 
 ![](satoshirun.png)
