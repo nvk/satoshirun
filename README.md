@@ -5,9 +5,10 @@ Every January 3rd, users withdraw all Bitcoin they may have sitting on exchanges
 
 ![](satoshirun.png)
 
+All you have to do:
 
-Here is a [guide to Proof of Keys](https://www.reddit.com/r/Bitcoin/comments/a57b2g/proof_of_keys_a_guide/)
-
+1. Withdraw to your own hardware wallet.
+2. Wait 24hrs...
 
 
 
