@@ -6,8 +6,7 @@ Every January 3rd, users withdraw all Bitcoin they may have sitting on exchanges
 ![](satoshirun.png)
 
 
-
-
+Here is a [guide to Proof of Keys](https://www.reddit.com/r/Bitcoin/comments/a57b2g/proof_of_keys_a_guide/)
 
 
 
