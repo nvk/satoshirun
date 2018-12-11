@@ -5,8 +5,9 @@ Every January 3rd, users withdraw all Bitcoin they may have sitting on exchanges
 
 All you have to do:
 
-1. Withdraw to your own hardware wallet.
-2. Wait 24hrs...?
+1. Test your wallet
+2. Withdraw to your own hardware wallet.
+3. Wait 24hrs...?
 
 
 
