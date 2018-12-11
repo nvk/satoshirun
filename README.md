@@ -10,6 +10,8 @@ All you have to do:
 1. Withdraw to your own hardware wallet.
 2. Wait 24hrs...
 
+[Visit Proof of Keys for awesome info](http://proofofkeys.com)
+
 
 
 [*contribute*](https://github.com/nvk/satoshirun) | [follow @SatoshiRunJan3](https://twitter.com/SatoshiRunJan3)
