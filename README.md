@@ -13,4 +13,6 @@ All you have to do:
 
 [*contribute*](https://github.com/nvk/satoshirun) | [follow @SatoshiRunJan3](https://twitter.com/SatoshiRunJan3) | [Visit Proof of Keys for awesome info](http://proofofkeys.com)
 
-![](satoshirun.png)
+[Get the hat:](https://store.coinkite.com/store/hat-satoshirun)
+
+![](https://store.coinkite.com/static/images/sku/hat-satoshirun.png)
